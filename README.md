@@ -1,6 +1,6 @@
 # Factorio Calculator
 
-This is the repostory for the [Factorio Calculator](https://kirkmcdonald.github.io/calc.html), a tool for calculating resource requirements and production ratios in the game [Factorio](https://factorio.com/).
+This is a fork of the repostory for the [Factorio Calculator](https://kirkmcdonald.github.io/calc.html), a tool for calculating resource requirements and production ratios in the game [Factorio](https://factorio.com/). This fork will, if ever updated, be a stripped-down version of the calculator with all visual features removed.
 
 ## Running locally
 
@@ -18,4 +18,4 @@ The utility for dumping datasets from the game, as well as assembling the sprite
 
 ## Support the calculator
 
-Please consider donating to [my Patreon campaign](https://www.patreon.com/kirkmcdonald). Any amount helps. And thank you!
+See the [original repository](https://github.com/KirkMcDonald/kirkmcdonald.github.io) for more information.
